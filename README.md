@@ -1,6 +1,5 @@
 ## Brian "Zclipse" Michael
 
-### About Me
 Application Support Analyst at Ozinga\
 Independent Game Developer
 
