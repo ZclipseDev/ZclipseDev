@@ -1,7 +1,7 @@
 ## Brian "Zclipse" Michael
 
-Application Support Analyst at Ozinga\
-Independent Game Developer
+Founder of Synchrosoft LLC\
+Application Support Analyst at Ozinga
 
 ##
 [![Github Stats](https://github-readme-stats-umber.vercel.app/api?username=zclipsedev&show_icons=true&theme=dark)](#)
